@@ -1,0 +1,64 @@
+
+  
+  
+    
+  
+  #q_001{
+    color: black;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    
+  }
+
+.questions_001{
+  
+background-image:url("https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhGg3JPrc-L7x5taTGEHWzVTJ24QtI69JDUBHGtsdJ4YpLP4Q5i2yvrbGDMZnoDUX7S2YaEijflPwpy6dJLnHNmdpcLviih5XlFhRKkQns4Ew9q953nSYFwE5RGQZfMX2kCdsLyTVtTb6psr6TTB8iALJGMpUvPOVrsTCTPtR4cWHYlcXcH87aDNxI/s3264/20220407_171353.jpg");
+background-repeat: repeat-y;
+background-size: contain;
+width: 80vw;
+border-bottom: 10px solid white;
+ -webkit-user-select: none; /* Safari */
+ -ms-user-select: none; /* IE 10 and IE 11 */
+  user-select: none;
+}
+
+
+
+
+
+
+  .hindi_q{
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0px;
+    color: red;
+    border: 2px solid blueviolet;
+    border-bottom: none;
+    padding: 10px;
+    border-radius: 9px;
+   border-bottom-left-radius: 1px;
+    border-bottom-right-radius: 1px;
+  }
+  
+ .ans_001{ list-style-type: lower-alpha;
+   font-size: 17px;
+   font-weight: bold;
+   border-radius: 9px;
+   border-top-right-radius: 0px;
+   border-top-left-radius: 0px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   border: 2px solid red;
+border-top:0px;
+
+   margin-bottom: 20px;
+   padding-bottom: 15px;
+ } 
+ .questions_001{
+   
+  
+ padding-top: 30px;
+ padding-right:15px;
+ margin: 0;
+   
+ }
